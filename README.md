@@ -4,3 +4,4 @@
 ## 作法
 將雷射感測器與水平儀感測器以及量錶串接藍芽模組與電腦連線後,透過軟體規劃的量測方式進行量測,並將量測好的結果進行分析讓使用者可以進行後續處理.
 ## 成果
+![image](https://github.com/kyofire88/Mesure/blob/main/image.png)
